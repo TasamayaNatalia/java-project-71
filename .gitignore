@@ -2,9 +2,9 @@
 
 app.iml
 
-build/
+build
 
-.gradle/
+.gradle
 
 **/logs/
 
